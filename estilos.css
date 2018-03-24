@@ -1,13 +1,14 @@
 body,html{
-	background-image:url(flor.jpg) no-repeat;
+	
+	height:100%;
 
 }
 body{
-	background: linear-gradient(purple);
+	background-image:url(flor.jpg) no-repeat;
+	background-size:100% 100%;
 }
 .cuadro{
 background: salmon;
-text-align: center;
 }
 #andresllanos h2{
 	color:#FFFFFF;
