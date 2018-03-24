@@ -1,5 +1,6 @@
 body,html{
 	background: url(flor.jpg);
+	background-size:cover;
 }
 body{
 	background: linear-gradient(purple);
